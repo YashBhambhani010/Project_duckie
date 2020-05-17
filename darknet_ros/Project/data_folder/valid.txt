@@ -1,0 +1,5 @@
+Project/data_folder/validset/frame0002d.jpg
+Project/data_folder/validset/frame0027.jpg
+Project/data_folder/validset/frame0029.jpg
+Project/data_folder/validset/frame0036d.jpg
+Project/data_folder/validset/frame0074d.jpg

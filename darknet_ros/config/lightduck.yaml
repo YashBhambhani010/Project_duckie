@@ -1,0 +1,14 @@
+yolo_model:
+
+  config_file:
+    name: yolov3-tiny-lights.cfg
+  weight_file:
+    name: lightduck.weights
+  threshold:
+    value: 0.1
+  detection_classes:
+    names:
+      - red light
+      - green light
+      - duck
+      
